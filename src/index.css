@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+/* Swiper CSS */
+@import "swiper/css";
+@import "swiper/css/navigation";
+@import "swiper/css/pagination";
+
+/* AOS CSS */
+@import "aos/dist/aos.css";
+

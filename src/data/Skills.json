@@ -1,0 +1,98 @@
+[
+  {
+    "skillId": 1,
+    "skillName": "Beginner Guitar Lessons",
+    "providerName": "Alex Martin",
+    "providerEmail": "alex@skillswap.com",
+    "price": 20,
+    "rating": 4.8,
+    "slotsAvailable": 3,
+    "description": "Acoustic guitar classes for complete beginners. Learn chords, strumming patterns, and basic music theory.",
+    "image": "https://images.pexels.com/photos/1407322/pexels-photo-1407322.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "category": "Music"
+  },
+  {
+    "skillId": 2,
+    "skillName": "Spoken English Practice",
+    "providerName": "Sara Hossain",
+    "providerEmail": "sara@skillswap.com",
+    "price": 10,
+    "rating": 4.6,
+    "slotsAvailable": 5,
+    "description": "Conversational English sessions for non-native speakers. Improve pronunciation and fluency.",
+    "image": "https://images.pexels.com/photos/1181675/pexels-photo-1181675.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "category": "Language"
+  },
+  {
+    "skillId": 3,
+    "skillName": "Web Development Basics",
+    "providerName": "John Smith",
+    "providerEmail": "john@skillswap.com",
+    "price": 30,
+    "rating": 4.9,
+    "slotsAvailable": 2,
+    "description": "Learn HTML, CSS, and JavaScript fundamentals. Build your first website from scratch.",
+    "image": "https://images.pexels.com/photos/270348/pexels-photo-270348.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "category": "Technology"
+  },
+  {
+    "skillId": 4,
+    "skillName": "Yoga for Beginners",
+    "providerName": "Maya Patel",
+    "providerEmail": "maya@skillswap.com",
+    "price": 15,
+    "rating": 3.7,
+    "slotsAvailable": 4,
+    "description": "Gentle yoga sessions focusing on flexibility, balance, and mindfulness for complete beginners.",
+    "image": "https://images.pexels.com/photos/4324023/pexels-photo-4324023.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "category": "Fitness"
+  },
+  {
+    "skillId": 5,
+    "skillName": "Spanish Language Basics",
+    "providerName": "Carlos Rodriguez",
+    "providerEmail": "carlos@skillswap.com",
+    "price": 12,
+    "rating": 4.5,
+    "slotsAvailable": 6,
+    "description": "Interactive Spanish lessons covering basic grammar, vocabulary, and conversation skills.",
+    "image": "https://images.pexels.com/photos/5940841/pexels-photo-5940841.jpeg?auto=compress&cs=tinysrgb&w=800&lang=es",
+    "category": "Language"
+  },
+  {
+    "skillId": 6,
+    "skillName": "Photography Fundamentals",
+    "providerName": "Emma Wilson",
+    "providerEmail": "emma@skillswap.com",
+    "price": 25,
+    "rating": 4.9,
+    "slotsAvailable": 3,
+    "description": "Master camera basics, composition, lighting, and editing. Perfect for DSLR beginners.",
+    "image": "https://images.pexels.com/photos/3907507/pexels-photo-3907507.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "category": "Arts"
+  },
+  {
+    "skillId": 7,
+    "skillName": "Cooking Italian Cuisine",
+    "providerName": "Marco Rossi",
+    "providerEmail": "marco@skillswap.com",
+    "price": 18,
+    "rating": 4.8,
+    "slotsAvailable": 4,
+    "description": "Learn to cook authentic Italian dishes including pasta, pizza, and classic sauces.",
+    "image": "https://images.pexels.com/photos/1437267/pexels-photo-1437267.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "category": "Culinary"
+  },
+  {
+    "skillId": 8,
+    "skillName": "Digital Marketing Essentials",
+    "providerName": "Lisa Chen",
+    "providerEmail": "lisa@skillswap.com",
+    "price": 35,
+    "rating": 4.6,
+    "slotsAvailable": 2,
+    "description": "Learn SEO, social media marketing, email campaigns, and analytics for business growth.",
+    "image": "https://images.pexels.com/photos/265087/pexels-photo-265087.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "category": "Business"
+  }
+]
