@@ -1,8 +1,8 @@
 import { Navigate, useLocation } from "react-router-dom";
-import { useAuth } from "../context/AuthContext";
+import { useAuth } from "../providers/AuthProvider";
 
 const ProtectedRoute = ({ children }) => {
-  const { currentUser } = useAuth();
+  const { user: currentUser } = useAuth();
   const location = useLocation();
 
   if (!currentUser) {
